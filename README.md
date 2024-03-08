@@ -3,4 +3,4 @@ my name is chidinma
 my name is Paschaline
 I love rice
 I am learning github
-I am in panteka learning github
+I am at work learning github
