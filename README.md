@@ -4,3 +4,4 @@ my name is Paschaline
 I want to play
 I am learning github
 I love to play
+edit readme file
